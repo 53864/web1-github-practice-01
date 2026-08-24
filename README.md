@@ -1,1 +1,15 @@
-# web1-github-practice-01
+# web1-github-practice-
+
+index.html
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>GitHub Practice</title>
+</head>
+<body>
+
+    <h1>My First GitHub Repository</h1>
+
+</body>
+</html>
